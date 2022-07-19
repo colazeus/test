@@ -13,18 +13,32 @@
 | Native  | [Android Native XR SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=16)| [Documentation](https://developer.pico-interactive.com/docs/native/en/13158/android-native-xr-quickstart/#overview)|[API Reference](https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/)|
 | Native  | [OpenXR Mobile SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=11)| [Documentation](https://developer.pico-interactive.com/docs/native/en/13158/openxr-mobile-sdk-overview/#introduction-to-openxr)||
 
-## Unity Sample
-Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代码示例内容。当前Sample开发使用的Unity版本是 `2020.3 LTS`，但其功能同样可以在 `Unity 2019.4` 及以上版本实现
 
-## Unity Sample
 
-### Get Started
+# Unity Sample
+Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代码示例内容。当前Sample开发使用的Unity版本是 `2020.3 LTS`，但其功能同样可以在 `Unity 2019.4 LTS` 及以上版本实现并运行
 
-### Basic
+## Get Started
+基于Pico Unity Integration SDK 及 Unity 实现的基础场景，包含了SDK的引用、基础配置以及一个接入了头戴和控制器的空白场景，搭建过程请参考[开发文档](https://developer.pico-interactive.com/document/unity)的 **快速开始** 章节
 
-## Unreal Sample
+开发环境
 
-### Get Started
+| Name  | Version    |
+| ----  |  ----      |
+| Unity Editor | `2020.3.35f` |
+| Pico Unity Integration SDK | `2.0.5` |
+| XR Interaction Toolkit | `2.1.0` |
 
-### Basic
+
+## Basic Sample
+
+
+### Auto show
+
+
+# Unreal Sample
+
+## Get Started
+
+## Basic
 
