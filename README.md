@@ -19,9 +19,10 @@
 Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代码示例内容。当前Sample开发使用的Unity版本是 `2020.3 LTS`，但其功能同样可以在 `Unity 2019.4 LTS` 及以上版本实现并运行
 
 ## Get Started
-基于Pico Unity Integration SDK 及 Unity 实现的基础场景，包含了SDK的引用、基础配置以及一个接入了头戴和控制器的空白场景，搭建过程请参考[开发文档](https://developer.pico-interactive.com/document/unity)的 **快速开始** 章节
 
-开发环境
+基于 Pico Unity Integration SDK 及 Unity Interaction Toolkit 实现的基础场景，包含了SDK的引用、基础配置以及一个接入了头戴和控制器的空白场景，搭建过程请参考[开发文档](https://developer.pico-interactive.com/document/unity)的 **快速开始** 章节
+
+**开发环境**
 
 | Name  | Version    |
 | ----  |  ----      |
@@ -29,16 +30,35 @@ Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代
 | Pico Unity Integration SDK | `2.0.5` |
 | XR Interaction Toolkit | `2.1.0` |
 
+[项目地址]()
+
 
 ## Basic Sample
+
+以 Pico Unity Integration SDK 及 Unity Interaction Toolkit 实现的一系列基础功能展示，你需要在你的项目中引入这两个依赖，才可以导入对应的`.unitypackage`并正确运行。你也可以直接基于[Get started]()项目引入Sample，他们是被测试过的。
+
+**Sample列表**
+
+| Feature | Description |
+| -----   |    ----     |
+| Controller   |  Pico控制器及震动的使用方法  |
+| UI      |  使用射线与Uinty的UI进行基础交互的方法展示  |
+| Interaction |  包含平滑移动、传送及物体抓取、射击的基础交互Sample，基于Unity Interaction Toolkit实现 |
+
+
+[项目地址]()
 
 
 ### Auto show
 
+包含高精度车辆模型及相关Shader的展示Demo，展示了Pico VR基于高面数模型的渲染能力
 
-# Unreal Sample
+**开发环境**
 
-## Get Started
+| Name  | Version    |
+| ----  |  ----      |
+| Unity Editor | `2020.3.35f` |
+| Pico Unity Integration SDK | `2.0.5` |
 
-## Basic
+[项目地址|()
 
