@@ -35,7 +35,7 @@ Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代
 
 ## Basic Sample
 
-以 Pico Unity Integration SDK 及 Unity Interaction Toolkit 实现的一系列基础功能展示，你需要在你的项目中引入这两个依赖，才可以导入对应的`.unitypackage`并正确运行。你也可以直接基于[Get started]()项目引入Sample，他们是被测试过的。
+以 Pico Unity Integration SDK 及 Unity Interaction Toolkit 实现的一系列基础功能展示，你需要在你的项目中引入这两个依赖，才可以导入对应的`.unitypackage`并正确运行。你也可以直接基于[Get started]()项目引入package，这是被测试过的
 
 **Sample列表**
 
@@ -48,6 +48,9 @@ Unity Sample 是基于Unity引擎及Pico Unity Integration SDK进行开发的代
 
 [项目地址]()
 
+## Advanced Sample
+
+这是一系列为不同目的所制作的综合性示例，它们可能包含了渲染、交互及复合功能展示等多方面内容。
 
 ### Auto show
 
